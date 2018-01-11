@@ -12,13 +12,13 @@
 
         public const string UiUninstallCertificate = "Delete Certificate";
 
-        public const string UiYouArePlayingOnGatari = "You play on Gatari!";
+        public const string UiYouArePlayingOnGatari = "You're connected to THE ONLY RELEVANT SERVER IN THE UNIVERSE!";
 
-        public const string UiYouArePlayingOnOfficial = "You play on the game with the devils :(";
+        public const string UiYouArePlayingOnOfficial = "You're playing on shitsu! :(";
 
-        public const string UiSwitchToGatari = "Switch to Gatari";
+        public const string UiSwitchToGatari = "Switch to THE ONLY RELEVANT SERVER IN THE UNIVERSE";
 
-        public const string UiSwitchToOfficial = "Back to hell";
+        public const string UiSwitchToOfficial = "Back to shitsu! :(";
 
         public const string UiUpdatingStatus = "Getting addresses, expect ...";
     }
